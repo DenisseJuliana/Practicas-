@@ -1,0 +1,5 @@
+# Ignora el entorno virtual en la raíz
+venv_cv311/
+
+# Ignora el entorno virtual si está dentro de una subcarpeta (como 'practica3_1')
+*/venv_cv311/
